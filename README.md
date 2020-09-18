@@ -168,11 +168,11 @@ width="18" height="16"/>
 
 #### ***COURSES***
 
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
 [<ins><b>Advanced DeepLearning.AI TensorFlow Developer Professional Certificate</b></ins>][DLAI_ALL]
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>  
 &nbsp;&nbsp;&nbsp;&nbsp; [`1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning`][DLAI1]  
@@ -188,11 +188,11 @@ width="18" height="18"/>
 [DLAI4]: https://github.com/artemk1337/artemk1337/blob/master/COURSES/DeepLearning.AI%20TensorFlow%20Developer/Coursera%20JUAXXDNL9TB2.png "Certificate"
 
 
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/reverse_parrot.gif"
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/reverseparrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
 <ins><b>Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization</b></ins>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/reverse_parrot.gif"
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/reverseparrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>  
 &nbsp;&nbsp;&nbsp;&nbsp; `End-to-End Machine Learning with TensorFlow on GCP`  
