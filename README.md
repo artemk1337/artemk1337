@@ -195,11 +195,11 @@ width="18" height="18"/>
 <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/reverseparrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>  
-&nbsp;&nbsp;&nbsp;&nbsp; `End-to-End Machine Learning with TensorFlow on GCP`  
-&nbsp;&nbsp;&nbsp;&nbsp; `Production Machine Learning Systems`  
-&nbsp;&nbsp;&nbsp;&nbsp; `Image Understanding with TensorFlow on GCP`  
-&nbsp;&nbsp;&nbsp;&nbsp; `Sequence Models for Time Series and Natural Language Processing`  
-&nbsp;&nbsp;&nbsp;&nbsp; `Recommendation Systems with TensorFlow on GCP`  
+&nbsp;&nbsp;&nbsp;&nbsp; `1. End-to-End Machine Learning with TensorFlow on GCP`  
+&nbsp;&nbsp;&nbsp;&nbsp; `2. Production Machine Learning Systems`  
+&nbsp;&nbsp;&nbsp;&nbsp; `3. Image Understanding with TensorFlow on GCP`  
+&nbsp;&nbsp;&nbsp;&nbsp; `4. Sequence Models for Time Series and Natural Language Processing`  
+&nbsp;&nbsp;&nbsp;&nbsp; `5. Recommendation Systems with TensorFlow on GCP`  
 
 
 <!--
