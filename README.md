@@ -466,9 +466,6 @@ width="18" height="18"/>
 <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/congapartyparrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/congapartyparrot.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
 ![HEADER](https://github.com/artemk1337/artemk1337/blob/master/cosmo.jpg)
 
 
