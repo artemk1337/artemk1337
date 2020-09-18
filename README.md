@@ -7,32 +7,27 @@
 &nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/c-lang.png" 
 alt="Clang" title="Clang" 
 width="14" height="14"/>
-&nbsp; [Ecole 42 lem-in](https://github.com/artemk1337/lem-in)
-
+&nbsp; [Ecole 42 lem-in](https://github.com/artemk1337/lem-in)  
 &nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
-&nbsp; [Hltv.org parser](https://github.com/artemk1337/python_hltv_parser)
-
+&nbsp; [Hltv.org parser](https://github.com/artemk1337/python_hltv_parser)  
 &nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
-&nbsp; [People recognition in social networks by FaceNet](https://github.com/artemk1337/tinder_to_vk)
-
+&nbsp; [People recognition in social networks by FaceNet](https://github.com/artemk1337/tinder_to_vk)  
 &nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
-&nbsp; [SiameseDCGAN with embedding layers and contrastive loss](https://github.com/artemk1337/SiameseDCGAN-with-embedding-layers-and-contrastive-loss)
-
+&nbsp; [SiameseDCGAN with embedding layers and contrastive loss](https://github.com/artemk1337/SiameseDCGAN-with-embedding-layers-and-contrastive-loss)  
 &nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
-&nbsp; [Evaluating ML-models and Neural Networks on pulsar dataset](https://github.com/artemk1337/ML_test_all_models_on_pulsar)
-
+&nbsp; [Evaluating ML-models and Neural Networks on pulsar dataset](https://github.com/artemk1337/ML_test_all_models_on_pulsar)  
 &nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/cisco.png" 
 alt="Cisco" title="Cisco" 
 width="14" height="14"/>
-&nbsp; [Cisco Networking Academy](https://github.com/artemk1337/cisco_networking_academy)
+&nbsp; [Cisco Networking Academy](https://github.com/artemk1337/cisco_networking_academy)  
 
 
 
