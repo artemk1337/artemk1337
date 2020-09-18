@@ -145,6 +145,8 @@ width="18" height="16"/>
 &nbsp; [Final stage Digital Superhero Online](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/adam.42.pdf "Certificate")  
 
 
+#
+
 
 #### ***COURSES***
 
