@@ -46,7 +46,69 @@ width="18" height="16"/>
 &nbsp; [Final stage Digital Superhero Online](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/adam.42.pdf "Certificate")  
 
 
-#
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave1.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave2.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave3.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave4.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave5.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave6.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave7.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave1.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave2.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave3.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave4.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave5.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave6.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave7.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave1.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave2.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave3.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave4.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave5.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave6.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave7.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
 
 
 #### ***COURSES***
