@@ -36,8 +36,8 @@ width="14" height="14"/>
 
 #### ***HACKATHONS***
 
-&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" alt="fire" title="fire" width="18" height="16"/>&nbsp; [Cup-IT DS 2020 3rd place](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/Cup%20IT%202020%20DS.pdf "Certificate")  
-&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" alt="fire" title="fire" width="18" height="16"/>&nbsp; [Final stage Digital Superhero Online](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/adam.42.pdf "Certificate")  
+&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" alt="fire" title="fire" width="18" height="18"/>&nbsp; [Cup-IT DS 2020 3rd place](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/Cup%20IT%202020%20DS.pdf "Certificate")  
+&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" alt="fire" title="fire" width="18" height="18"/>&nbsp; [Final stage Digital Superhero Online](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/adam.42.pdf "Certificate")  
 
 
 #
