@@ -53,9 +53,9 @@ width="18" height="18"/>
 alt="parrot" title="parrot"
 width="18" height="18"/>  
 &nbsp;&nbsp;&nbsp;&nbsp; [`1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning`][DLAI1]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [`2. Convolutional Neural Networks in TensorFlow`][DLAI2]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [`3. Natural Language Processing in TensorFlow`][DLAI3]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [`4. Sequences, Time Series and Prediction`][DLAI4]  
+&nbsp;&nbsp;&nbsp;&nbsp; [`2. Convolutional Neural Networks in TensorFlow`][DLAI2]  
+&nbsp;&nbsp;&nbsp;&nbsp; [`3. Natural Language Processing in TensorFlow`][DLAI3]  
+&nbsp;&nbsp;&nbsp;&nbsp; [`4. Sequences, Time Series and Prediction`][DLAI4]  
 
 
 
