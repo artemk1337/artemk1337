@@ -36,8 +36,14 @@ width="14" height="14"/>
 
 #### ***HACKATHONS***
 
-&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" alt="fire" title="fire" width="18" height="18"/>&nbsp; [Cup-IT DS 2020 3rd place](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/Cup%20IT%202020%20DS.pdf "Certificate")  
-&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" alt="fire" title="fire" width="18" height="18"/>&nbsp; [Final stage Digital Superhero Online](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/adam.42.pdf "Certificate")  
+&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" 
+alt="fire" title="fire" 
+width="18" height="16"/>
+&nbsp; [Cup-IT DS 2020 3rd place](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/Cup%20IT%202020%20DS.pdf "Certificate")  
+&nbsp; <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/this-is-fine-fire.gif" 
+alt="fire" title="fire" 
+width="18" height="16"/>
+&nbsp; [Final stage Digital Superhero Online](https://github.com/artemk1337/artemk1337/blob/master/HACKATHONS/adam.42.pdf "Certificate")  
 
 
 #
@@ -58,7 +64,6 @@ width="18" height="18"/>
 &nbsp;&nbsp;&nbsp;&nbsp; [`4. Sequences, Time Series and Prediction`][DLAI4]  
 
 
-
 [DLAI_ALL]: https://github.com/artemk1337/artemk1337/blob/master/COURSES/DeepLearning.AI%20TensorFlow%20Developer/Coursera%20RQKWMXGCYDCG.png "Certificate"  
 [DLAI1]: https://github.com/artemk1337/artemk1337/blob/master/COURSES/DeepLearning.AI%20TensorFlow%20Developer/Coursera%20TA3L4CL6SDC8.png "Certificate"  
 [DLAI2]: https://github.com/artemk1337/artemk1337/blob/master/COURSES/DeepLearning.AI%20TensorFlow%20Developer/Coursera%204WJ852DRGKEC.png "Certificate"
@@ -66,6 +71,18 @@ width="18" height="18"/>
 [DLAI4]: https://github.com/artemk1337/artemk1337/blob/master/COURSES/DeepLearning.AI%20TensorFlow%20Developer/Coursera%20JUAXXDNL9TB2.png "Certificate"
 
 
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+<ins><b>Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization</b></ins>
+<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
+alt="parrot" title="parrot"
+width="18" height="18"/>
+&nbsp;&nbsp;&nbsp;&nbsp; `End-to-End Machine Learning with TensorFlow on GCP`  
+&nbsp;&nbsp;&nbsp;&nbsp; `Production Machine Learning Systems`
+&nbsp;&nbsp;&nbsp;&nbsp; `Image Understanding with TensorFlow on GCP`
+&nbsp;&nbsp;&nbsp;&nbsp; `Sequence Models for Time Series and Natural Language Processing`
+&nbsp;&nbsp;&nbsp;&nbsp; `Recommendation Systems with TensorFlow on GCP`
 
 
 <!--
