@@ -583,9 +583,6 @@ width="18" height="18"/>
 <img src="custom_emoji/meld_parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
-<img src="custom_emoji/meld_parrot.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
 ![HEADER](cosmo.jpg)
 
 
