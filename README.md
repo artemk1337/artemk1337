@@ -58,30 +58,6 @@ width="18" height="18"/>
 <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave7.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave1.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave3.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave5.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave7.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave1.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave3.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave5.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
-<img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/parrotwave7.gif"
-alt="parrot" title="parrot"
-width="18" height="18"/>
 
 
 #### ***COURSES***
