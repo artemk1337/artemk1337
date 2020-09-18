@@ -77,7 +77,7 @@ width="18" height="18"/>
 <ins><b>Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization</b></ins>
 <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
 alt="parrot" title="parrot"
-width="18" height="18"/>
+width="18" height="18"/>  
 &nbsp;&nbsp;&nbsp;&nbsp; `End-to-End Machine Learning with TensorFlow on GCP`  
 &nbsp;&nbsp;&nbsp;&nbsp; `Production Machine Learning Systems`  
 &nbsp;&nbsp;&nbsp;&nbsp; `Image Understanding with TensorFlow on GCP`  
