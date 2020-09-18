@@ -48,7 +48,7 @@ width="14" height="14"/>
 <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
-[<ins><b>DeepLearning.AI TensorFlow Developer Professional Certificate</b></ins>][DLAI_ALL]
+[<ins><b>Advanced DeepLearning.AI TensorFlow Developer Professional Certificate</b></ins>][DLAI_ALL]
 <img src="https://github.com/artemk1337/artemk1337/blob/master/custom_emoji/60fps_parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>  
