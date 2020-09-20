@@ -249,7 +249,7 @@ width="14" height="14"/>
 &nbsp; <img src="custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
-&nbsp; [People recognition in social networks by FaceNet](https://github.com/artemk1337/tinder_to_vk)  
+&nbsp; [People recognition in social networks by FaceNet](https://github.com/artemk1337/tinder_to_vk/tree/finder_vk)  
 &nbsp; <img src="custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
