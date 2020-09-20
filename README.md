@@ -312,11 +312,14 @@ width="18" height="18"/>
 <img src="custom_emoji/reverseparrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>  
-&nbsp;&nbsp;&nbsp;&nbsp; `1. End-to-End Machine Learning with TensorFlow on GCP`  
+&nbsp;&nbsp;&nbsp;&nbsp; [`1. End-to-End Machine Learning with TensorFlow on GCP`][AMLGCP1]  
 &nbsp;&nbsp;&nbsp;&nbsp; `2. Production Machine Learning Systems`  
 &nbsp;&nbsp;&nbsp;&nbsp; `3. Image Understanding with TensorFlow on GCP`  
 &nbsp;&nbsp;&nbsp;&nbsp; `4. Sequence Models for Time Series and Natural Language Processing`  
 &nbsp;&nbsp;&nbsp;&nbsp; `5. Recommendation Systems with TensorFlow on GCP`  
+
+
+[AMLGCP1]: COURSES/Advanced%20Machine%20Learning%20with%20TensorFlow%20on%20Google%20Cloud%20Platform%20Specialization/Coursera%20PMBD9B6NBKMX.pdf  "Certificate"  
 
 
 <!--
