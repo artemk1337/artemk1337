@@ -330,11 +330,12 @@ width="18" height="18"/>
 alt="parrot" title="parrot"
 width="18" height="18"/>  
 &nbsp;&nbsp;&nbsp;&nbsp; [`1. Getting started with TensorFlow 2`][TF2DLS1]  
-&nbsp;&nbsp;&nbsp;&nbsp; `2. Customising your models with TensorFlow 2`  
+&nbsp;&nbsp;&nbsp;&nbsp; [`2. Customising your models with TensorFlow 2`][TF2DLS1]  
 &nbsp;&nbsp;&nbsp;&nbsp; `3. Probabilistic Deep Learning with TensorFlow 2`  
 
 
 [TF2DLS1]: COURSES/TensorFlow%202%20for%20Deep%20Learning%20Specialization%20by%20IMPERIAL%20COLLEGE%20LONDON/Coursera%20S8FMJBMQWBNL.pdf
+[TF2DLS1]: COURSES/TensorFlow%202%20for%20Deep%20Learning%20Specialization%20by%20IMPERIAL%20COLLEGE%20LONDON/Coursera%20P8KEZY7XRFEF.pdf
 
 
 <!--
