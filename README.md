@@ -325,7 +325,7 @@ width="18" height="18"/>
 <img src="custom_emoji/parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>
-<ins><b>TensorFlow 2 for Deep Learning Specialization</b></ins>
+<ins><b>Imperial College London TensorFlow 2 for Deep Learning Specialization</b></ins>
 <img src="custom_emoji/parrot.gif"
 alt="parrot" title="parrot"
 width="18" height="18"/>  
