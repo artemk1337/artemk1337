@@ -237,7 +237,6 @@ width="18" height="18"/>
 
 ### [***Certificated TensorFlow Developer***](CERTIFICATES/zd0e81jv.pdf "Certificate")
 
-#
 
 #### ***COOL PROJECTS***
 
