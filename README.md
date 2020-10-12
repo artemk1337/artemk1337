@@ -273,14 +273,15 @@ width="14" height="14"/>
 &nbsp; <img src="custom_emoji/tensorflow.png" 
 alt="fire" title="fire" 
 width="18" height="16"/>
-&nbsp; [TensorFlow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
+&nbsp; 
+#### [TensorFlow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
 
 
 #
 
 #### ***HACKATHONS***
 
-#### &nbsp; <img src="custom_emoji/this-is-fine-fire.gif" 
+&nbsp; <img src="custom_emoji/this-is-fine-fire.gif" 
 alt="fire" title="fire" 
 width="18" height="16"/>
 &nbsp; [Cup-IT DS 2020 3rd place](HACKATHONS/Cup%20IT%202020%20DS.pdf "Certificate")  
