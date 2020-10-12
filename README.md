@@ -273,8 +273,7 @@ width="14" height="14"/>
 &nbsp; <img src="custom_emoji/tensorflow.png" 
 alt="fire" title="fire" 
 width="18" height="16"/>
-&nbsp; 
-#### [TensorFlow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
+&nbsp; [TensorFlow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
 
 
 #
