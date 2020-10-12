@@ -268,7 +268,7 @@ width="14" height="14"/>
 #
 
 
-#### ***HACKATHONS***
+#### ***CERTIFICATES***
 
 &nbsp; <img src="custom_emoji/tensorflow.png" 
 alt="fire" title="fire" 
