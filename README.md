@@ -270,6 +270,16 @@ width="14" height="14"/>
 
 #### ***HACKATHONS***
 
+&nbsp; <img src="custom_emoji/tensorflow.png" 
+alt="fire" title="fire" 
+width="18" height="16"/>
+&nbsp; [Tensorflow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
+
+
+#
+
+#### ***HACKATHONS***
+
 &nbsp; <img src="custom_emoji/this-is-fine-fire.gif" 
 alt="fire" title="fire" 
 width="18" height="16"/>
