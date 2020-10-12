@@ -235,6 +235,10 @@ alt="parrot" title="parrot"
 width="18" height="18"/>  
 
 
+
+#### [TensorFlow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
+
+
 #### ***COOL PROJECTS***
 
 
@@ -262,18 +266,6 @@ width="14" height="14"/>
 alt="Cisco" title="Cisco" 
 width="14" height="14"/>
 &nbsp; [Cisco Networking Academy](https://github.com/artemk1337/cisco_networking_academy)  
-
-
-
-#
-
-
-#### ***CERTIFICATES***
-
-&nbsp; <img src="custom_emoji/tensorflow.png" 
-alt="fire" title="fire" 
-width="18" height="16"/>
-&nbsp; [TensorFlow Developer Certificate](CERTIFICATES/zd0e81jv.pdf "Certificate")  
 
 
 #
