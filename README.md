@@ -232,10 +232,10 @@ alt="parrot" title="parrot"
 width="18" height="18"/>
 <img src="custom_emoji/aussiereversecongaparrot.gif"
 alt="parrot" title="parrot"
-width="18" height="18"/>  
+width="18" height="18"/>
 
 
-### [***Certificated TensorFlow Developer***](CERTIFICATES/zd0e81jv.pdf "Certificate")  
+### [***Certificated TensorFlow Developer***](CERTIFICATES/zd0e81jv.pdf "Certificate")
 
 #
 
