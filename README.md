@@ -235,10 +235,14 @@ alt="parrot" title="parrot"
 width="18" height="18"/>
 
 
-### [***Certificated TensorFlow Developer***](CERTIFICATES/zd0e81jv.pdf "Certificate")
+### <img src="custom_emoji/TF.png" alt="TF2" width="16" height="16"/> [<ins>***Certificated TensorFlow Developer***</ins>](CERTIFICATES/zd0e81jv.pdf "Certificate") ###
 
 
-#### ***COOL PROJECTS***
+
+
+
+
+#### ***COOL PROJECTS*** ####
 
 
 &nbsp; <img src="custom_emoji/c-lang.png" 
@@ -267,7 +271,7 @@ width="14" height="14"/>
 &nbsp; [Cisco Networking Academy](https://github.com/artemk1337/cisco_networking_academy)  
 
 
-#
+# 
 
 #### ***HACKATHONS***
 
@@ -284,7 +288,7 @@ width="18" height="16"/>
 #
 
 
-#### ***COURSES***
+#### ***COURSES*** ####
 
 <img src="custom_emoji/parrot.gif"
 alt="parrot" title="parrot"
