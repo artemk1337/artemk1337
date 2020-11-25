@@ -248,11 +248,7 @@ width="18" height="18"/>
 &nbsp; <img src="custom_emoji/c-lang.png" 
 alt="Clang" title="Clang" 
 width="14" height="14"/>
-&nbsp; [Ecole 42 lem-in](https://github.com/artemk1337/lem-in)  
-&nbsp; <img src="custom_emoji/cpp1.png" 
-alt="Cpp" title="Cpp" 
-width="14" height="14"/>
-&nbsp; [lem-in cpp](https://github.com/artemk1337/lem-in_cpp)  
+&nbsp; [Ecole 42 lem-in](https://github.com/artemk1337/lem-in) and [c++ prj](https://github.com/artemk1337/lem-in_cpp)  
 &nbsp; <img src="custom_emoji/python.png" 
 alt="Python" title="Python" 
 width="14" height="14"/>
