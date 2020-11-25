@@ -251,7 +251,7 @@ width="14" height="14"/>
 &nbsp; [Ecole 42 lem-in](https://github.com/artemk1337/lem-in)  
 &nbsp; <img src="custom_emoji/cpp.png" 
 alt="Cpp" title="Cpp" 
-width="14" height="14"/>
+width="12" height="14"/>
 &nbsp; [lem-in cpp](https://github.com/artemk1337/lem-in_cpp)  
 &nbsp; <img src="custom_emoji/python.png" 
 alt="Python" title="Python" 
