@@ -285,8 +285,17 @@ width="18" height="16"/>
 &nbsp; [Final stage Digital Superhero Online](HACKATHONS/adam.42.pdf "Certificate")  
 
 
-#
+# 
 
+#### ***ARTICLES***
+
+&nbsp; <img src="custom_emoji/doge.png" 
+alt="Doge" title="Doge" 
+width="14" height="14"/>
+&nbsp; [SiameseDCGAN with embedding layers and contrastive loss](https://medium.com/bubblegan/siamesedcgan-with-embedding-layers-and-contrastive-loss-9e3f6c1f906e)
+
+
+#
 
 #### ***COURSES*** ####
 
